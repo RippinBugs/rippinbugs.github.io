@@ -152,4 +152,9 @@ span.highlight {
   color: #31317D;         /* matte teal */
   font-weight: 500;
 }
+
+strong {
+  font-weight: 700;       /* bold for keywords */
+  color: #222;            /* dark gray for better contrast */
+}
 </style>

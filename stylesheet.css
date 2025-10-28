@@ -140,3 +140,15 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.news-entry {
+  margin-bottom: 8px;
+  line-height: 1.8;
+  text-indent: -80px;     /* pull the first line left */
+  padding-left: 80px;     /* indent continuation lines */
+}
+
+.news-date {
+  color: #3d7475;         /* matte teal */
+  font-weight: 500;
+}
